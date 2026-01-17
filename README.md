@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/DucHuy74/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DucHuy74/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/DucHuy74/leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/DucHuy74/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/DucHuy74/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/DucHuy74/leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/DucHuy74/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/DucHuy74/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/DucHuy74/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
