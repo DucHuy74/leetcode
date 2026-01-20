@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DucHuy74/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/DucHuy74/leetcode/tree/master/0036-valid-sudoku) |
 | [0283-move-zeroes](https://github.com/DucHuy74/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/DucHuy74/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DucHuy74/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -55,9 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DucHuy74/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/DucHuy74/leetcode/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/DucHuy74/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DucHuy74/leetcode/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/DucHuy74/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
