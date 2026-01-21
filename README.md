@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/DucHuy74/leetcode/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DucHuy74/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/DucHuy74/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/DucHuy74/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DucHuy74/leetcode/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/DucHuy74/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
