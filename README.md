@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DucHuy74/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DucHuy74/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/DucHuy74/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DucHuy74/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/DucHuy74/leetcode/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DucHuy74/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/DucHuy74/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DucHuy74/leetcode/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/DucHuy74/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DucHuy74/leetcode/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -90,12 +92,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/DucHuy74/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DucHuy74/leetcode/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/DucHuy74/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DucHuy74/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/DucHuy74/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/DucHuy74/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
