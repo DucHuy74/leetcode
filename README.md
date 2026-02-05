@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DucHuy74/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/DucHuy74/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/DucHuy74/leetcode/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/DucHuy74/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DucHuy74/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/DucHuy74/leetcode/tree/master/0605-can-place-flowers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/DucHuy74/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/DucHuy74/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/DucHuy74/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DucHuy74/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DucHuy74/leetcode/tree/master/0392-is-subsequence) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DucHuy74/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DucHuy74/leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
