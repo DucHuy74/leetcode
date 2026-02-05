@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/DucHuy74/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DucHuy74/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/DucHuy74/leetcode/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DucHuy74/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/DucHuy74/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/DucHuy74/leetcode/tree/master/1929-concatenation-of-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DucHuy74/leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -103,4 +106,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/DucHuy74/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DucHuy74/leetcode/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DucHuy74/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
