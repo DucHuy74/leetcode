@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DucHuy74/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/DucHuy74/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/DucHuy74/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/DucHuy74/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DucHuy74/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DucHuy74/leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/DucHuy74/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DucHuy74/leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/DucHuy74/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DucHuy74/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/DucHuy74/leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/DucHuy74/leetcode/tree/master/1768-merge-strings-alternately) |
