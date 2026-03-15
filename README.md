@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DucHuy74/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/DucHuy74/leetcode/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/DucHuy74/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DucHuy74/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/DucHuy74/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/DucHuy74/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/DucHuy74/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/DucHuy74/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DucHuy74/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DucHuy74/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/DucHuy74/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DucHuy74/leetcode/tree/master/0344-reverse-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DucHuy74/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/DucHuy74/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DucHuy74/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/DucHuy74/leetcode/tree/master/0347-top-k-frequent-elements) |
