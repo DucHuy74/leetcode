@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DucHuy74/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DucHuy74/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/DucHuy74/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/DucHuy74/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/DucHuy74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/DucHuy74/leetcode/tree/master/0605-can-place-flowers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/DucHuy74/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/DucHuy74/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DucHuy74/leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/DucHuy74/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DucHuy74/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/DucHuy74/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/DucHuy74/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/DucHuy74/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/DucHuy74/leetcode/tree/master/0705-design-hashset) |
